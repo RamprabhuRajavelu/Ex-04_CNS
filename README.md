@@ -1,4 +1,6 @@
-# Ex-04
+# EX.NO:
+# DATE:
+
 # DEMONSTRATION OF INTRUSION DETECTION SYSTEM(IDS) 
  
 # AIM: 
@@ -114,6 +116,8 @@ Snort monitoring traffic –
 
 
 
+## EX.NO:
+## DATE:
 
   # EXPLORING N-STALKER, A VULNERABILITY ASSESSMENT TOOL 
   
